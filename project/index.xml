@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | </title>
+    <link>https://www.cs.bham.ac.uk/~duanj/project/</link>
+      <atom:link href="https://www.cs.bham.ac.uk/~duanj/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>UoB 2025 © Jinming Duan</copyright><lastBuildDate>Sat, 27 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.cs.bham.ac.uk/~duanj/media/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_3.png</url>
+      <title>Projects</title>
+      <link>https://www.cs.bham.ac.uk/~duanj/project/</link>
+    </image>
+    
+    <item>
+      <title>Using deep learning to predict clinical outcomes in heart failure</title>
+      <link>https://www.cs.bham.ac.uk/~duanj/project/deep-learning/</link>
+      <pubDate>Sat, 27 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.cs.bham.ac.uk/~duanj/project/deep-learning/</guid>
+      <description>&lt;p&gt;This project will investigate human heart failure, which is a complex clinical syndrome associated with differing adaptations of ventricular contractility and geometry as a consequence of altered loading conditions, intrinsic myocardial disease and ischaemia. Although prognosis depends on eventual ventricular decompensation, conventional measures of cardiac function are often poor predictors of outcome in individual patients. Three-dimensional cardiac phenotyping coupled with advanced segmentation and deep learning (DL) algorithms offers a powerful new approach for risk stratification which can be trained on large cohorts of patients with known outcomes. We will determine if DL approaches allow high-precision prediction of individual outcomes by exploiting both complex cardiac phenotypes and conventional risk factors. We will apply this to patient cohorts with dilated cardiomyopathy and pulmonary arterial hypertension. To determine the true predictive performance in unseen patients outcome prediction will be externally validated on an independent cohort and compared to contemporary risk prediction models. The expected result is a validated technique of autonomous image interpretation to predict outcomes and guide management. This work will lay the foundation for introducing DL to decision-making and risk prediction in cardiology by exploiting massive multimodal datasets for classifier training.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Development and application of variational techniques for segmentation and quantification of optical coherence tomography images</title>
+      <link>https://www.cs.bham.ac.uk/~duanj/project/oct-project/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://www.cs.bham.ac.uk/~duanj/project/oct-project/</guid>
+      <description>&lt;p&gt;This project investigated optical coherence tomography (OCT), which is a powerful imaging modality used to image various aspects of biological tissues, such as structural information, blood flow, elastic parameters, change of polarization states and molecular content. By using the low coherence interferometry, OCT can generate two or three-dimensional images from biological samples and provide high-resolution cross-sectional backscattering profiles. With a long period development of this technique, OCT has become a well-established modality for depth resolved imaging of eyes. Ophthalmology has drastically benefited from the inventions and improvements made to OCT systems. From a clinical point of view, measurements are normally required to perform on the vivo imaging of the retina in order to aid the diagnosis of pathologies by physicians. One example of various measurements is to determine the thickness of retinal layers in OCT images. Segmentation thus has to be done before such measurement can be made. We have developed novel variational methods that are able to delineate and quantify OCT images.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Clinical decision system development for paediatric liver tumour surgery</title>
+      <link>https://www.cs.bham.ac.uk/~duanj/project/liver-project/</link>
+      <pubDate>Thu, 27 Mar 2014 00:00:00 +0000</pubDate>
+      <guid>https://www.cs.bham.ac.uk/~duanj/project/liver-project/</guid>
+      <description>&lt;p&gt;This project aims at developing a clinical decision system for the tumour removal surgery of paediatric livers imaged by the Computational Tomography (CT) techinque. One of many difficulties of segmenting 3D tissues from a paediatric liver is to detect vessels, as there exists strong noise and vessels sometimes can be discontinuous across image slices. We have successfully developed novel methods that overcome the two difficulties. It is worth mentioning that the system has been applied to tons of real surgeries and has saved lives of thousands of children.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

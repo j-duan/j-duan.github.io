@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>survivial prediction | </title>
+    <link>https://www.cs.bham.ac.uk/~duanj/tag/survivial-prediction/</link>
+      <atom:link href="https://www.cs.bham.ac.uk/~duanj/tag/survivial-prediction/index.xml" rel="self" type="application/rss+xml" />
+    <description>survivial prediction</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>UoB 2025 © Jinming Duan</copyright><lastBuildDate>Mon, 11 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.cs.bham.ac.uk/~duanj/media/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_3.png</url>
+      <title>survivial prediction</title>
+      <link>https://www.cs.bham.ac.uk/~duanj/tag/survivial-prediction/</link>
+    </image>
+    
+    <item>
+      <title>Deep learning cardiac motion analysis for human survival prediction</title>
+      <link>https://www.cs.bham.ac.uk/~duanj/publication/survival-prediction/</link>
+      <pubDate>Mon, 11 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.cs.bham.ac.uk/~duanj/publication/survival-prediction/</guid>
+      <description>&lt;p&gt;s can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

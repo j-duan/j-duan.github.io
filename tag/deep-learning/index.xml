@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Deep Learning | </title>
+    <link>https://www.cs.bham.ac.uk/~duanj/tag/deep-learning/</link>
+      <atom:link href="https://www.cs.bham.ac.uk/~duanj/tag/deep-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Deep Learning</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>UoB 2025 © Jinming Duan</copyright><lastBuildDate>Sat, 27 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.cs.bham.ac.uk/~duanj/media/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_3.png</url>
+      <title>Deep Learning</title>
+      <link>https://www.cs.bham.ac.uk/~duanj/tag/deep-learning/</link>
+    </image>
+    
+    <item>
+      <title>Using deep learning to predict clinical outcomes in heart failure</title>
+      <link>https://www.cs.bham.ac.uk/~duanj/project/deep-learning/</link>
+      <pubDate>Sat, 27 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.cs.bham.ac.uk/~duanj/project/deep-learning/</guid>
+      <description>&lt;p&gt;This project will investigate human heart failure, which is a complex clinical syndrome associated with differing adaptations of ventricular contractility and geometry as a consequence of altered loading conditions, intrinsic myocardial disease and ischaemia. Although prognosis depends on eventual ventricular decompensation, conventional measures of cardiac function are often poor predictors of outcome in individual patients. Three-dimensional cardiac phenotyping coupled with advanced segmentation and deep learning (DL) algorithms offers a powerful new approach for risk stratification which can be trained on large cohorts of patients with known outcomes. We will determine if DL approaches allow high-precision prediction of individual outcomes by exploiting both complex cardiac phenotypes and conventional risk factors. We will apply this to patient cohorts with dilated cardiomyopathy and pulmonary arterial hypertension. To determine the true predictive performance in unseen patients outcome prediction will be externally validated on an independent cohort and compared to contemporary risk prediction models. The expected result is a validated technique of autonomous image interpretation to predict outcomes and guide management. This work will lay the foundation for introducing DL to decision-making and risk prediction in cardiology by exploiting massive multimodal datasets for classifier training.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Deep learning cardiac motion analysis for human survival prediction</title>
+      <link>https://www.cs.bham.ac.uk/~duanj/publication/survival-prediction/</link>
+      <pubDate>Mon, 11 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.cs.bham.ac.uk/~duanj/publication/survival-prediction/</guid>
+      <description>&lt;p&gt;s can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

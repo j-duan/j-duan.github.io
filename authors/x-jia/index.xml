@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>X Jia | </title>
+    <link>https://www.cs.bham.ac.uk/~duanj/authors/x-jia/</link>
+      <atom:link href="https://www.cs.bham.ac.uk/~duanj/authors/x-jia/index.xml" rel="self" type="application/rss+xml" />
+    <description>X Jia</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>UoB 2025 © Jinming Duan</copyright><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.cs.bham.ac.uk/~duanj/media/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_3.png</url>
+      <title>X Jia</title>
+      <link>https://www.cs.bham.ac.uk/~duanj/authors/x-jia/</link>
+    </image>
+    
+    <item>
+      <title>Learning a model-driven network for deformable image registration</title>
+      <link>https://www.cs.bham.ac.uk/~duanj/publication/model-driven-reg/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://www.cs.bham.ac.uk/~duanj/publication/model-driven-reg/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

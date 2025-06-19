@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <link>https://www.cs.bham.ac.uk/~duanj/</link>
+      <atom:link href="https://www.cs.bham.ac.uk/~duanj/index.xml" rel="self" type="application/rss+xml" />
+    <description></description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>UoB 2025 © Jinming Duan</copyright><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.cs.bham.ac.uk/~duanj/media/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_3.png</url>
+      <title></title>
+      <link>https://www.cs.bham.ac.uk/~duanj/</link>
+    </image>
+    
+    <item>
+      <title>Example Talk</title>
+      <link>https://www.cs.bham.ac.uk/~duanj/talk/example-talk/</link>
+      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
+      <guid>https://www.cs.bham.ac.uk/~duanj/talk/example-talk/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Further event details, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page elements&lt;/a&gt; such as image galleries, can be added to the body of this page.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Jul 2024 - One paper is published on IEEE TPMAI</title>
+      <link>https://www.cs.bham.ac.uk/~duanj/post/jul2024-tpami/</link>
+      <pubDate>Sat, 20 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.cs.bham.ac.uk/~duanj/post/jul2024-tpami/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structure and intensity unbiased translation for image segmentation</title>
+      <link>https://www.cs.bham.ac.uk/~duanj/publication/domain-adapt/</link>
+      <pubDate>Sat, 20 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.cs.bham.ac.uk/~duanj/publication/domain-adapt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Oct 2022 - One paper is published on IEEE TMI</title>
+      <link>https://www.cs.bham.ac.uk/~duanj/post/oct2022-tmi/</link>
+      <pubDate>Thu, 20 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://www.cs.bham.ac.uk/~duanj/post/oct2022-tmi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sep 2022 - We win the Learn2Reg Challenge</title>
+      <link>https://www.cs.bham.ac.uk/~duanj/post/sep2022-learn2reg/</link>
+      <pubDate>Sun, 25 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://www.cs.bham.ac.uk/~duanj/post/sep2022-learn2reg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jan 2022 - One paper is published on IEEE TMI</title>
+      <link>https://www.cs.bham.ac.uk/~duanj/post/jan2022-tmi/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://www.cs.bham.ac.uk/~duanj/post/jan2022-tmi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning a model-driven network for deformable image registration</title>
+      <link>https://www.cs.bham.ac.uk/~duanj/publication/model-driven-reg/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://www.cs.bham.ac.uk/~duanj/publication/model-driven-reg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nov 2021 - A PhD post for Oct 2022 entry is live</title>
+      <link>https://www.cs.bham.ac.uk/~duanj/post/nov2021-mrcphd/</link>
+      <pubDate>Mon, 15 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.cs.bham.ac.uk/~duanj/post/nov2021-mrcphd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Oct 2021 - One paper is published on The Lancet</title>
+      <link>https://www.cs.bham.ac.uk/~duanj/post/oct2021-lancet/</link>
+      <pubDate>Sat, 16 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.cs.bham.ac.uk/~duanj/post/oct2021-lancet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Oct 2021 - I am appointed a Turing Fellow</title>
+      <link>https://www.cs.bham.ac.uk/~duanj/post/oct2021-turingfellow/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.cs.bham.ac.uk/~duanj/post/oct2021-turingfellow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nesterov accelerated ADMM for diffeomorphic image registration</title>
+      <link>https://www.cs.bham.ac.uk/~duanj/publication/admm-diffeo/</link>
+      <pubDate>Tue, 21 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.cs.bham.ac.uk/~duanj/publication/admm-diffeo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sep 2021 - One paper is published on MICCAI 2021</title>
+      <link>https://www.cs.bham.ac.uk/~duanj/post/sep2021-miccai/</link>
+      <pubDate>Tue, 21 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.cs.bham.ac.uk/~duanj/post/sep2021-miccai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jul 2021 - A PhD post for Oct 2021 entry is live</title>
+      <link>https://www.cs.bham.ac.uk/~duanj/post/jul2021-jointphd/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.cs.bham.ac.uk/~duanj/post/jul2021-jointphd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jun 2021 - Two papers are published on MRM</title>
+      <link>https://www.cs.bham.ac.uk/~duanj/post/jun2021-mrm/</link>
+      <pubDate>Thu, 10 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.cs.bham.ac.uk/~duanj/post/jun2021-mrm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Systematic evaluation of iterative deep neural networks for fast parallel MRI reconstruction with sensitivity-weighted coil combination</title>
+      <link>https://www.cs.bham.ac.uk/~duanj/publication/fast-mri/</link>
+      <pubDate>Thu, 10 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.cs.bham.ac.uk/~duanj/publication/fast-mri/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mar 2021 - One paper is accepted to CVPR 2021</title>
+      <link>https://www.cs.bham.ac.uk/~duanj/post/mar2021-cvpr/</link>
+      <pubDate>Sat, 06 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.cs.bham.ac.uk/~duanj/post/mar2021-cvpr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Geometry constrained weakly supervised object localization</title>
+      <link>https://www.cs.bham.ac.uk/~duanj/publication/obj-det/</link>
+      <pubDate>Sun, 19 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.cs.bham.ac.uk/~duanj/publication/obj-det/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jul 2020 - One paper is accepted to ECCV 2020</title>
+      <link>https://www.cs.bham.ac.uk/~duanj/post/jul2020-eccv/</link>
+      <pubDate>Fri, 10 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.cs.bham.ac.uk/~duanj/post/jul2020-eccv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fab 2020 - One paper is accepted to CVPR 2020</title>
+      <link>https://www.cs.bham.ac.uk/~duanj/post/fab2020-cvpr/</link>
+      <pubDate>Mon, 10 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.cs.bham.ac.uk/~duanj/post/fab2020-cvpr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jan 2020 - One paper is published on IEEE TMI</title>
+      <link>https://www.cs.bham.ac.uk/~duanj/post/jan2020-tmi/</link>
+      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.cs.bham.ac.uk/~duanj/post/jan2020-tmi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dec 2019 – Facebook fastMRI challenge results are released</title>
+      <link>https://www.cs.bham.ac.uk/~duanj/post/dec2019-fastmri/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.cs.bham.ac.uk/~duanj/post/dec2019-fastmri/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nov 2019- One paper is published on BOE</title>
+      <link>https://www.cs.bham.ac.uk/~duanj/post/nov2019-boe/</link>
+      <pubDate>Tue, 12 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.cs.bham.ac.uk/~duanj/post/nov2019-boe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Self-supervised learning for cardiac MR segmentation by anatomical position prediction</title>
+      <link>https://www.cs.bham.ac.uk/~duanj/publication/self-supervised/</link>
+      <pubDate>Fri, 11 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.cs.bham.ac.uk/~duanj/publication/self-supervised/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VS-Net: Variable splitting network for accelerated parallel MRI reconstruction</title>
+      <link>https://www.cs.bham.ac.uk/~duanj/publication/vs-net/</link>
+      <pubDate>Thu, 10 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.cs.bham.ac.uk/~duanj/publication/vs-net/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sep 2021 - Four papers are published on MICCAI 2019</title>
+      <link>https://www.cs.bham.ac.uk/~duanj/post/sep2019-miccai/</link>
+      <pubDate>Sat, 21 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.cs.bham.ac.uk/~duanj/post/sep2019-miccai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aug 2019- One paper is published on IEEE T Cybern</title>
+      <link>https://www.cs.bham.ac.uk/~duanj/post/aug2019-cybern/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.cs.bham.ac.uk/~duanj/post/aug2019-cybern/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Graph- and finite element-based total variation models for the inverse problem in diffuse optical tomography</title>
+      <link>https://www.cs.bham.ac.uk/~duanj/publication/graph-fem/</link>
+      <pubDate>Thu, 02 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.cs.bham.ac.uk/~duanj/publication/graph-fem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>May 2019- One paper is published on BOE</title>
+      <link>https://www.cs.bham.ac.uk/~duanj/post/may2019-boe/</link>
+      <pubDate>Thu, 02 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.cs.bham.ac.uk/~duanj/post/may2019-boe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using deep learning to predict clinical outcomes in heart failure</title>
+      <link>https://www.cs.bham.ac.uk/~duanj/project/deep-learning/</link>
+      <pubDate>Sat, 27 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.cs.bham.ac.uk/~duanj/project/deep-learning/</guid>
+      <description>&lt;p&gt;This project will investigate human heart failure, which is a complex clinical syndrome associated with differing adaptations of ventricular contractility and geometry as a consequence of altered loading conditions, intrinsic myocardial disease and ischaemia. Although prognosis depends on eventual ventricular decompensation, conventional measures of cardiac function are often poor predictors of outcome in individual patients. Three-dimensional cardiac phenotyping coupled with advanced segmentation and deep learning (DL) algorithms offers a powerful new approach for risk stratification which can be trained on large cohorts of patients with known outcomes. We will determine if DL approaches allow high-precision prediction of individual outcomes by exploiting both complex cardiac phenotypes and conventional risk factors. We will apply this to patient cohorts with dilated cardiomyopathy and pulmonary arterial hypertension. To determine the true predictive performance in unseen patients outcome prediction will be externally validated on an independent cohort and compared to contemporary risk prediction models. The expected result is a validated technique of autonomous image interpretation to predict outcomes and guide management. This work will lay the foundation for introducing DL to decision-making and risk prediction in cardiology by exploiting massive multimodal datasets for classifier training.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mar 2019 - I join UoB as a lecturer</title>
+      <link>https://www.cs.bham.ac.uk/~duanj/post/mar2019-apuob/</link>
+      <pubDate>Mon, 18 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.cs.bham.ac.uk/~duanj/post/mar2019-apuob/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep learning cardiac motion analysis for human survival prediction</title>
+      <link>https://www.cs.bham.ac.uk/~duanj/publication/survival-prediction/</link>
+      <pubDate>Mon, 11 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.cs.bham.ac.uk/~duanj/publication/survival-prediction/</guid>
+      <description>&lt;p&gt;s can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Fab 2019 - One paper is published to NMI</title>
+      <link>https://www.cs.bham.ac.uk/~duanj/post/fab2019-nmi/</link>
+      <pubDate>Mon, 11 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.cs.bham.ac.uk/~duanj/post/fab2019-nmi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic 3D bi-ventricular segmentation of cardiac images by a shape-refined deep learning approach</title>
+      <link>https://www.cs.bham.ac.uk/~duanj/publication/mutli-task/</link>
+      <pubDate>Sat, 26 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.cs.bham.ac.uk/~duanj/publication/mutli-task/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jan 2019 - One paper is published on IEEE TMI</title>
+      <link>https://www.cs.bham.ac.uk/~duanj/post/jan2019-tmi/</link>
+      <pubDate>Wed, 23 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.cs.bham.ac.uk/~duanj/post/jan2019-tmi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dec 2018 - I finish my PhD at UoN</title>
+      <link>https://www.cs.bham.ac.uk/~duanj/post/dec2018-phd/</link>
+      <pubDate>Sun, 23 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.cs.bham.ac.uk/~duanj/post/dec2018-phd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nov 2018 - One paper is published on IEEE TIP</title>
+      <link>https://www.cs.bham.ac.uk/~duanj/post/nov2018-phd/</link>
+      <pubDate>Wed, 28 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.cs.bham.ac.uk/~duanj/post/nov2018-phd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep nested level sets for segmentation of cardiac MR images in patients with pulmonary hypertension</title>
+      <link>https://www.cs.bham.ac.uk/~duanj/publication/level-set/</link>
+      <pubDate>Wed, 10 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.cs.bham.ac.uk/~duanj/publication/level-set/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sep 2021 - Two papers are published on MICCAI 2018</title>
+      <link>https://www.cs.bham.ac.uk/~duanj/post/sep2018-miccai/</link>
+      <pubDate>Wed, 26 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.cs.bham.ac.uk/~duanj/post/sep2018-miccai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automated segmentation of retinal layers from optical coherent tomography images using geodesic distance</title>
+      <link>https://www.cs.bham.ac.uk/~duanj/publication/oct-seg/</link>
+      <pubDate>Thu, 26 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.cs.bham.ac.uk/~duanj/publication/oct-seg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sep 2017 - I join ICL as Research Associate.</title>
+      <link>https://www.cs.bham.ac.uk/~duanj/post/sep2017-postdoc/</link>
+      <pubDate>Sun, 10 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.cs.bham.ac.uk/~duanj/post/sep2017-postdoc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Implementation of high‐order variational models for image processing</title>
+      <link>https://www.cs.bham.ac.uk/~duanj/publication/finite-diff/</link>
+      <pubDate>Fri, 30 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>https://www.cs.bham.ac.uk/~duanj/publication/finite-diff/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Development and application of variational techniques for segmentation and quantification of optical coherence tomography images</title>
+      <link>https://www.cs.bham.ac.uk/~duanj/project/oct-project/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://www.cs.bham.ac.uk/~duanj/project/oct-project/</guid>
+      <description>&lt;p&gt;This project investigated optical coherence tomography (OCT), which is a powerful imaging modality used to image various aspects of biological tissues, such as structural information, blood flow, elastic parameters, change of polarization states and molecular content. By using the low coherence interferometry, OCT can generate two or three-dimensional images from biological samples and provide high-resolution cross-sectional backscattering profiles. With a long period development of this technique, OCT has become a well-established modality for depth resolved imaging of eyes. Ophthalmology has drastically benefited from the inventions and improvements made to OCT systems. From a clinical point of view, measurements are normally required to perform on the vivo imaging of the retina in order to aid the diagnosis of pathologies by physicians. One example of various measurements is to determine the thickness of retinal layers in OCT images. Segmentation thus has to be done before such measurement can be made. We have developed novel variational methods that are able to delineate and quantify OCT images.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Surface reconstruction from point clouds using a novel variational model</title>
+      <link>https://www.cs.bham.ac.uk/~duanj/publication/point-cloud/</link>
+      <pubDate>Sat, 26 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>https://www.cs.bham.ac.uk/~duanj/publication/point-cloud/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clinical decision system development for paediatric liver tumour surgery</title>
+      <link>https://www.cs.bham.ac.uk/~duanj/project/liver-project/</link>
+      <pubDate>Thu, 27 Mar 2014 00:00:00 +0000</pubDate>
+      <guid>https://www.cs.bham.ac.uk/~duanj/project/liver-project/</guid>
+      <description>&lt;p&gt;This project aims at developing a clinical decision system for the tumour removal surgery of paediatric livers imaged by the Computational Tomography (CT) techinque. One of many difficulties of segmenting 3D tissues from a paediatric liver is to detect vessels, as there exists strong noise and vessels sometimes can be discontinuous across image slices. We have successfully developed novel methods that overcome the two difficulties. It is worth mentioning that the system has been applied to tons of real surgeries and has saved lives of thousands of children.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.cs.bham.ac.uk/~duanj/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.cs.bham.ac.uk/~duanj/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A Thorley | </title>
+    <link>https://www.cs.bham.ac.uk/~duanj/authors/a-thorley/</link>
+      <atom:link href="https://www.cs.bham.ac.uk/~duanj/authors/a-thorley/index.xml" rel="self" type="application/rss+xml" />
+    <description>A Thorley</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>UoB 2025 © Jinming Duan</copyright><lastBuildDate>Tue, 21 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.cs.bham.ac.uk/~duanj/media/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_3.png</url>
+      <title>A Thorley</title>
+      <link>https://www.cs.bham.ac.uk/~duanj/authors/a-thorley/</link>
+    </image>
+    
+    <item>
+      <title>Nesterov accelerated ADMM for diffeomorphic image registration</title>
+      <link>https://www.cs.bham.ac.uk/~duanj/publication/admm-diffeo/</link>
+      <pubDate>Tue, 21 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.cs.bham.ac.uk/~duanj/publication/admm-diffeo/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

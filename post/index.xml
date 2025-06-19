@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>News | </title>
+    <link>https://www.cs.bham.ac.uk/~duanj/post/</link>
+      <atom:link href="https://www.cs.bham.ac.uk/~duanj/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>News</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>UoB 2025 © Jinming Duan</copyright><lastBuildDate>Sat, 20 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.cs.bham.ac.uk/~duanj/media/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_3.png</url>
+      <title>News</title>
+      <link>https://www.cs.bham.ac.uk/~duanj/post/</link>
+    </image>
+    
+    <item>
+      <title>Jul 2024 - One paper is published on IEEE TPMAI</title>
+      <link>https://www.cs.bham.ac.uk/~duanj/post/jul2024-tpami/</link>
+      <pubDate>Sat, 20 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.cs.bham.ac.uk/~duanj/post/jul2024-tpami/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Oct 2022 - One paper is published on IEEE TMI</title>
+      <link>https://www.cs.bham.ac.uk/~duanj/post/oct2022-tmi/</link>
+      <pubDate>Thu, 20 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://www.cs.bham.ac.uk/~duanj/post/oct2022-tmi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sep 2022 - We win the Learn2Reg Challenge</title>
+      <link>https://www.cs.bham.ac.uk/~duanj/post/sep2022-learn2reg/</link>
+      <pubDate>Sun, 25 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://www.cs.bham.ac.uk/~duanj/post/sep2022-learn2reg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jan 2022 - One paper is published on IEEE TMI</title>
+      <link>https://www.cs.bham.ac.uk/~duanj/post/jan2022-tmi/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://www.cs.bham.ac.uk/~duanj/post/jan2022-tmi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nov 2021 - A PhD post for Oct 2022 entry is live</title>
+      <link>https://www.cs.bham.ac.uk/~duanj/post/nov2021-mrcphd/</link>
+      <pubDate>Mon, 15 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.cs.bham.ac.uk/~duanj/post/nov2021-mrcphd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Oct 2021 - One paper is published on The Lancet</title>
+      <link>https://www.cs.bham.ac.uk/~duanj/post/oct2021-lancet/</link>
+      <pubDate>Sat, 16 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.cs.bham.ac.uk/~duanj/post/oct2021-lancet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Oct 2021 - I am appointed a Turing Fellow</title>
+      <link>https://www.cs.bham.ac.uk/~duanj/post/oct2021-turingfellow/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.cs.bham.ac.uk/~duanj/post/oct2021-turingfellow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sep 2021 - One paper is published on MICCAI 2021</title>
+      <link>https://www.cs.bham.ac.uk/~duanj/post/sep2021-miccai/</link>
+      <pubDate>Tue, 21 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.cs.bham.ac.uk/~duanj/post/sep2021-miccai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jul 2021 - A PhD post for Oct 2021 entry is live</title>
+      <link>https://www.cs.bham.ac.uk/~duanj/post/jul2021-jointphd/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.cs.bham.ac.uk/~duanj/post/jul2021-jointphd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jun 2021 - Two papers are published on MRM</title>
+      <link>https://www.cs.bham.ac.uk/~duanj/post/jun2021-mrm/</link>
+      <pubDate>Thu, 10 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.cs.bham.ac.uk/~duanj/post/jun2021-mrm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mar 2021 - One paper is accepted to CVPR 2021</title>
+      <link>https://www.cs.bham.ac.uk/~duanj/post/mar2021-cvpr/</link>
+      <pubDate>Sat, 06 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.cs.bham.ac.uk/~duanj/post/mar2021-cvpr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jul 2020 - One paper is accepted to ECCV 2020</title>
+      <link>https://www.cs.bham.ac.uk/~duanj/post/jul2020-eccv/</link>
+      <pubDate>Fri, 10 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.cs.bham.ac.uk/~duanj/post/jul2020-eccv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fab 2020 - One paper is accepted to CVPR 2020</title>
+      <link>https://www.cs.bham.ac.uk/~duanj/post/fab2020-cvpr/</link>
+      <pubDate>Mon, 10 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.cs.bham.ac.uk/~duanj/post/fab2020-cvpr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jan 2020 - One paper is published on IEEE TMI</title>
+      <link>https://www.cs.bham.ac.uk/~duanj/post/jan2020-tmi/</link>
+      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.cs.bham.ac.uk/~duanj/post/jan2020-tmi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dec 2019 – Facebook fastMRI challenge results are released</title>
+      <link>https://www.cs.bham.ac.uk/~duanj/post/dec2019-fastmri/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.cs.bham.ac.uk/~duanj/post/dec2019-fastmri/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nov 2019- One paper is published on BOE</title>
+      <link>https://www.cs.bham.ac.uk/~duanj/post/nov2019-boe/</link>
+      <pubDate>Tue, 12 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.cs.bham.ac.uk/~duanj/post/nov2019-boe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sep 2021 - Four papers are published on MICCAI 2019</title>
+      <link>https://www.cs.bham.ac.uk/~duanj/post/sep2019-miccai/</link>
+      <pubDate>Sat, 21 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.cs.bham.ac.uk/~duanj/post/sep2019-miccai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aug 2019- One paper is published on IEEE T Cybern</title>
+      <link>https://www.cs.bham.ac.uk/~duanj/post/aug2019-cybern/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.cs.bham.ac.uk/~duanj/post/aug2019-cybern/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>May 2019- One paper is published on BOE</title>
+      <link>https://www.cs.bham.ac.uk/~duanj/post/may2019-boe/</link>
+      <pubDate>Thu, 02 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.cs.bham.ac.uk/~duanj/post/may2019-boe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mar 2019 - I join UoB as a lecturer</title>
+      <link>https://www.cs.bham.ac.uk/~duanj/post/mar2019-apuob/</link>
+      <pubDate>Mon, 18 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.cs.bham.ac.uk/~duanj/post/mar2019-apuob/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fab 2019 - One paper is published to NMI</title>
+      <link>https://www.cs.bham.ac.uk/~duanj/post/fab2019-nmi/</link>
+      <pubDate>Mon, 11 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.cs.bham.ac.uk/~duanj/post/fab2019-nmi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jan 2019 - One paper is published on IEEE TMI</title>
+      <link>https://www.cs.bham.ac.uk/~duanj/post/jan2019-tmi/</link>
+      <pubDate>Wed, 23 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.cs.bham.ac.uk/~duanj/post/jan2019-tmi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dec 2018 - I finish my PhD at UoN</title>
+      <link>https://www.cs.bham.ac.uk/~duanj/post/dec2018-phd/</link>
+      <pubDate>Sun, 23 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.cs.bham.ac.uk/~duanj/post/dec2018-phd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nov 2018 - One paper is published on IEEE TIP</title>
+      <link>https://www.cs.bham.ac.uk/~duanj/post/nov2018-phd/</link>
+      <pubDate>Wed, 28 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.cs.bham.ac.uk/~duanj/post/nov2018-phd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sep 2021 - Two papers are published on MICCAI 2018</title>
+      <link>https://www.cs.bham.ac.uk/~duanj/post/sep2018-miccai/</link>
+      <pubDate>Wed, 26 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.cs.bham.ac.uk/~duanj/post/sep2018-miccai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sep 2017 - I join ICL as Research Associate.</title>
+      <link>https://www.cs.bham.ac.uk/~duanj/post/sep2017-postdoc/</link>
+      <pubDate>Sun, 10 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.cs.bham.ac.uk/~duanj/post/sep2017-postdoc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
