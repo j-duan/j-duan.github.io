@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jinming Duan | </title>
-    <link>https://www.cs.bham.ac.uk/~duanj/authors/admin/</link>
-      <atom:link href="https://www.cs.bham.ac.uk/~duanj/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://j-duan.github.io/authors/admin/</link>
+      <atom:link href="https://j-duan.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <description>Jinming Duan</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>UoB 2025 © Jinming Duan</copyright>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>UoM 2025 © Jinming Duan</copyright>
     <image>
-      <url>https://www.cs.bham.ac.uk/~duanj/authors/admin/avatar_hufe3bcf61885816828dd7fbe6f0ad25a1_43112_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://j-duan.github.io/authors/admin/avatar_hufe3bcf61885816828dd7fbe6f0ad25a1_43112_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Jinming Duan</title>
-      <link>https://www.cs.bham.ac.uk/~duanj/authors/admin/</link>
+      <link>https://j-duan.github.io/authors/admin/</link>
     </image>
     
   </channel>

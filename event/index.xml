@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent &amp; Upcoming Talks | </title>
-    <link>https://www.cs.bham.ac.uk/~duanj/event/</link>
-      <atom:link href="https://www.cs.bham.ac.uk/~duanj/event/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://j-duan.github.io/event/</link>
+      <atom:link href="https://j-duan.github.io/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>UoB 2025 © Jinming Duan</copyright><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>UoM 2025 © Jinming Duan</copyright><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.cs.bham.ac.uk/~duanj/media/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_3.png</url>
+      <url>https://j-duan.github.io/media/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_3.png</url>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>https://www.cs.bham.ac.uk/~duanj/event/</link>
+      <link>https://j-duan.github.io/event/</link>
     </image>
     
     <item>
       <title>Example Talk</title>
-      <link>https://www.cs.bham.ac.uk/~duanj/talk/example-talk/</link>
+      <link>https://j-duan.github.io/talk/example-talk/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://www.cs.bham.ac.uk/~duanj/talk/example-talk/</guid>
+      <guid>https://j-duan.github.io/talk/example-talk/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Demo | </title>
-    <link>https://www.cs.bham.ac.uk/~duanj/tag/demo/</link>
-      <atom:link href="https://www.cs.bham.ac.uk/~duanj/tag/demo/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://j-duan.github.io/tag/demo/</link>
+      <atom:link href="https://j-duan.github.io/tag/demo/index.xml" rel="self" type="application/rss+xml" />
     <description>Demo</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>UoB 2025 © Jinming Duan</copyright><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>UoM 2025 © Jinming Duan</copyright><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.cs.bham.ac.uk/~duanj/media/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_3.png</url>
+      <url>https://j-duan.github.io/media/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_3.png</url>
       <title>Demo</title>
-      <link>https://www.cs.bham.ac.uk/~duanj/tag/demo/</link>
+      <link>https://j-duan.github.io/tag/demo/</link>
     </image>
     
     <item>
       <title>Development and application of variational techniques for segmentation and quantification of optical coherence tomography images</title>
-      <link>https://www.cs.bham.ac.uk/~duanj/project/oct-project/</link>
+      <link>https://j-duan.github.io/project/oct-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.cs.bham.ac.uk/~duanj/project/oct-project/</guid>
+      <guid>https://j-duan.github.io/project/oct-project/</guid>
       <description>&lt;p&gt;This project investigated optical coherence tomography (OCT), which is a powerful imaging modality used to image various aspects of biological tissues, such as structural information, blood flow, elastic parameters, change of polarization states and molecular content. By using the low coherence interferometry, OCT can generate two or three-dimensional images from biological samples and provide high-resolution cross-sectional backscattering profiles. With a long period development of this technique, OCT has become a well-established modality for depth resolved imaging of eyes. Ophthalmology has drastically benefited from the inventions and improvements made to OCT systems. From a clinical point of view, measurements are normally required to perform on the vivo imaging of the retina in order to aid the diagnosis of pathologies by physicians. One example of various measurements is to determine the thickness of retinal layers in OCT images. Segmentation thus has to be done before such measurement can be made. We have developed novel variational methods that are able to delineate and quantify OCT images.&lt;/p&gt;
 </description>
     </item>

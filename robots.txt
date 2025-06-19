@@ -1,3 +1,3 @@
 User-agent: *
 
-Sitemap: https://www.cs.bham.ac.uk/~duanj/sitemap.xml
+Sitemap: https://j-duan.github.io/sitemap.xml

@@ -2,61 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>1 | </title>
-    <link>https://www.cs.bham.ac.uk/~duanj/publication-type/1/</link>
-      <atom:link href="https://www.cs.bham.ac.uk/~duanj/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://j-duan.github.io/publication-type/1/</link>
+      <atom:link href="https://j-duan.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>UoB 2025 © Jinming Duan</copyright><lastBuildDate>Tue, 21 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>UoM 2025 © Jinming Duan</copyright><lastBuildDate>Tue, 21 Sep 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.cs.bham.ac.uk/~duanj/media/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_3.png</url>
+      <url>https://j-duan.github.io/media/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_3.png</url>
       <title>1</title>
-      <link>https://www.cs.bham.ac.uk/~duanj/publication-type/1/</link>
+      <link>https://j-duan.github.io/publication-type/1/</link>
     </image>
     
     <item>
       <title>Nesterov accelerated ADMM for diffeomorphic image registration</title>
-      <link>https://www.cs.bham.ac.uk/~duanj/publication/admm-diffeo/</link>
+      <link>https://j-duan.github.io/publication/admm-diffeo/</link>
       <pubDate>Tue, 21 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://www.cs.bham.ac.uk/~duanj/publication/admm-diffeo/</guid>
+      <guid>https://j-duan.github.io/publication/admm-diffeo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Geometry constrained weakly supervised object localization</title>
-      <link>https://www.cs.bham.ac.uk/~duanj/publication/obj-det/</link>
+      <link>https://j-duan.github.io/publication/obj-det/</link>
       <pubDate>Sun, 19 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.cs.bham.ac.uk/~duanj/publication/obj-det/</guid>
+      <guid>https://j-duan.github.io/publication/obj-det/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Self-supervised learning for cardiac MR segmentation by anatomical position prediction</title>
-      <link>https://www.cs.bham.ac.uk/~duanj/publication/self-supervised/</link>
+      <link>https://j-duan.github.io/publication/self-supervised/</link>
       <pubDate>Fri, 11 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://www.cs.bham.ac.uk/~duanj/publication/self-supervised/</guid>
+      <guid>https://j-duan.github.io/publication/self-supervised/</guid>
       <description></description>
     </item>
     
     <item>
       <title>VS-Net: Variable splitting network for accelerated parallel MRI reconstruction</title>
-      <link>https://www.cs.bham.ac.uk/~duanj/publication/vs-net/</link>
+      <link>https://j-duan.github.io/publication/vs-net/</link>
       <pubDate>Thu, 10 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://www.cs.bham.ac.uk/~duanj/publication/vs-net/</guid>
+      <guid>https://j-duan.github.io/publication/vs-net/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Deep nested level sets for segmentation of cardiac MR images in patients with pulmonary hypertension</title>
-      <link>https://www.cs.bham.ac.uk/~duanj/publication/level-set/</link>
+      <link>https://j-duan.github.io/publication/level-set/</link>
       <pubDate>Wed, 10 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>https://www.cs.bham.ac.uk/~duanj/publication/level-set/</guid>
+      <guid>https://j-duan.github.io/publication/level-set/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Surface reconstruction from point clouds using a novel variational model</title>
-      <link>https://www.cs.bham.ac.uk/~duanj/publication/point-cloud/</link>
+      <link>https://j-duan.github.io/publication/point-cloud/</link>
       <pubDate>Sat, 26 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://www.cs.bham.ac.uk/~duanj/publication/point-cloud/</guid>
+      <guid>https://j-duan.github.io/publication/point-cloud/</guid>
       <description></description>
     </item>
     

@@ -2,78 +2,78 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2 | </title>
-    <link>https://www.cs.bham.ac.uk/~duanj/publication-type/2/</link>
-      <atom:link href="https://www.cs.bham.ac.uk/~duanj/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://j-duan.github.io/publication-type/2/</link>
+      <atom:link href="https://j-duan.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>UoB 2025 © Jinming Duan</copyright><lastBuildDate>Sat, 20 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>UoM 2025 © Jinming Duan</copyright><lastBuildDate>Sat, 20 Jul 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.cs.bham.ac.uk/~duanj/media/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_3.png</url>
+      <url>https://j-duan.github.io/media/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_3.png</url>
       <title>2</title>
-      <link>https://www.cs.bham.ac.uk/~duanj/publication-type/2/</link>
+      <link>https://j-duan.github.io/publication-type/2/</link>
     </image>
     
     <item>
       <title>Structure and intensity unbiased translation for image segmentation</title>
-      <link>https://www.cs.bham.ac.uk/~duanj/publication/domain-adapt/</link>
+      <link>https://j-duan.github.io/publication/domain-adapt/</link>
       <pubDate>Sat, 20 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.cs.bham.ac.uk/~duanj/publication/domain-adapt/</guid>
+      <guid>https://j-duan.github.io/publication/domain-adapt/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Learning a model-driven network for deformable image registration</title>
-      <link>https://www.cs.bham.ac.uk/~duanj/publication/model-driven-reg/</link>
+      <link>https://j-duan.github.io/publication/model-driven-reg/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://www.cs.bham.ac.uk/~duanj/publication/model-driven-reg/</guid>
+      <guid>https://j-duan.github.io/publication/model-driven-reg/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Systematic evaluation of iterative deep neural networks for fast parallel MRI reconstruction with sensitivity-weighted coil combination</title>
-      <link>https://www.cs.bham.ac.uk/~duanj/publication/fast-mri/</link>
+      <link>https://j-duan.github.io/publication/fast-mri/</link>
       <pubDate>Thu, 10 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://www.cs.bham.ac.uk/~duanj/publication/fast-mri/</guid>
+      <guid>https://j-duan.github.io/publication/fast-mri/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Graph- and finite element-based total variation models for the inverse problem in diffuse optical tomography</title>
-      <link>https://www.cs.bham.ac.uk/~duanj/publication/graph-fem/</link>
+      <link>https://j-duan.github.io/publication/graph-fem/</link>
       <pubDate>Thu, 02 May 2019 00:00:00 +0000</pubDate>
-      <guid>https://www.cs.bham.ac.uk/~duanj/publication/graph-fem/</guid>
+      <guid>https://j-duan.github.io/publication/graph-fem/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Deep learning cardiac motion analysis for human survival prediction</title>
-      <link>https://www.cs.bham.ac.uk/~duanj/publication/survival-prediction/</link>
+      <link>https://j-duan.github.io/publication/survival-prediction/</link>
       <pubDate>Mon, 11 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://www.cs.bham.ac.uk/~duanj/publication/survival-prediction/</guid>
+      <guid>https://j-duan.github.io/publication/survival-prediction/</guid>
       <description>&lt;p&gt;s can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Automatic 3D bi-ventricular segmentation of cardiac images by a shape-refined deep learning approach</title>
-      <link>https://www.cs.bham.ac.uk/~duanj/publication/mutli-task/</link>
+      <link>https://j-duan.github.io/publication/mutli-task/</link>
       <pubDate>Sat, 26 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://www.cs.bham.ac.uk/~duanj/publication/mutli-task/</guid>
+      <guid>https://j-duan.github.io/publication/mutli-task/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Automated segmentation of retinal layers from optical coherent tomography images using geodesic distance</title>
-      <link>https://www.cs.bham.ac.uk/~duanj/publication/oct-seg/</link>
+      <link>https://j-duan.github.io/publication/oct-seg/</link>
       <pubDate>Thu, 26 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>https://www.cs.bham.ac.uk/~duanj/publication/oct-seg/</guid>
+      <guid>https://j-duan.github.io/publication/oct-seg/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Implementation of high‐order variational models for image processing</title>
-      <link>https://www.cs.bham.ac.uk/~duanj/publication/finite-diff/</link>
+      <link>https://j-duan.github.io/publication/finite-diff/</link>
       <pubDate>Fri, 30 Sep 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.cs.bham.ac.uk/~duanj/publication/finite-diff/</guid>
+      <guid>https://j-duan.github.io/publication/finite-diff/</guid>
       <description></description>
     </item>
     
