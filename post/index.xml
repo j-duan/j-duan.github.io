@@ -5,12 +5,68 @@
     <link>https://j-duan.github.io/post/</link>
       <atom:link href="https://j-duan.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>News</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>UoM 2025 © Jinming Duan</copyright><lastBuildDate>Sat, 20 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>UoM 2025 © Jinming Duan</copyright><lastBuildDate>Wed, 18 Jun 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://j-duan.github.io/media/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_3.png</url>
       <title>News</title>
       <link>https://j-duan.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>Jun 2025 - One paper is accepted to MICCAI</title>
+      <link>https://j-duan.github.io/post/jun2025-miccai/</link>
+      <pubDate>Wed, 18 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://j-duan.github.io/post/jun2025-miccai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>May 2025 - A research associate post is live</title>
+      <link>https://j-duan.github.io/post/may2025-bhf-postdoc/</link>
+      <pubDate>Wed, 28 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://j-duan.github.io/post/may2025-bhf-postdoc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>May 2025 - One paper is published on IEEE JBHI</title>
+      <link>https://j-duan.github.io/post/may2025-jbhi/</link>
+      <pubDate>Wed, 14 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://j-duan.github.io/post/may2025-jbhi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>May 2025 - A PhD post for Oct 2025 entry is live</title>
+      <link>https://j-duan.github.io/post/may2025-bhf-phd/</link>
+      <pubDate>Sat, 10 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://j-duan.github.io/post/may2025-bhf-phd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Apr 2025 - One paper is published on IEEE TMI</title>
+      <link>https://j-duan.github.io/post/apr2025-tmi/</link>
+      <pubDate>Thu, 17 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://j-duan.github.io/post/apr2025-tmi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Feb 2025 - One paper is accepted to IPMI</title>
+      <link>https://j-duan.github.io/post/feb2025-ipmi/</link>
+      <pubDate>Fri, 28 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://j-duan.github.io/post/feb2025-ipmi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Feb 2025 - Two papers are accepted to CVPR</title>
+      <link>https://j-duan.github.io/post/feb2025-cvpr/</link>
+      <pubDate>Wed, 26 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://j-duan.github.io/post/feb2025-cvpr/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Jul 2024 - One paper is published on IEEE TPMAI</title>
